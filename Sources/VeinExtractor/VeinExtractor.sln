@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeinExtractor", "VeinExtractor.csproj", "{6F954B1D-894B-4978-992F-B77EB1CBEE42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "..\Benchmark\Benchmark.csproj", "{C5D7DE75-660D-4D13-9848-5BBE6AD05B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tongji", "..\Tongji\Tongji.csproj", "{632A9313-B63A-4573-8F2D-3386F0038103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BioVein", "..\BioVein\BioVein.csproj", "{D1988A7E-A2E9-4A0A-82C2-3B8C9607EC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F954B1D-894B-4978-992F-B77EB1CBEE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F954B1D-894B-4978-992F-B77EB1CBEE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F954B1D-894B-4978-992F-B77EB1CBEE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F954B1D-894B-4978-992F-B77EB1CBEE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D7DE75-660D-4D13-9848-5BBE6AD05B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D7DE75-660D-4D13-9848-5BBE6AD05B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D7DE75-660D-4D13-9848-5BBE6AD05B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D7DE75-660D-4D13-9848-5BBE6AD05B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632A9313-B63A-4573-8F2D-3386F0038103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632A9313-B63A-4573-8F2D-3386F0038103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632A9313-B63A-4573-8F2D-3386F0038103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632A9313-B63A-4573-8F2D-3386F0038103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1988A7E-A2E9-4A0A-82C2-3B8C9607EC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1988A7E-A2E9-4A0A-82C2-3B8C9607EC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1988A7E-A2E9-4A0A-82C2-3B8C9607EC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1988A7E-A2E9-4A0A-82C2-3B8C9607EC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
